@@ -17,7 +17,6 @@ chmod +x shadowsocksR.sh
 - Password: testing
 - Port: 443
 - cipher: chacha20
-- protocol: origin
-- obfs: `http_simple_compatible` or (maybe better) `auth_sha1_v4_compatible`
-
+- protocol: `origin` or (maybe better) `auth_sha1_v4_compatible`
+- obfs: `http_simple_compatible`
 
